@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e78e1479-5c02-4af9-bd2b-09591dfd5f0c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quotes.html" afterPath="$PROJECT_DIR$/quotes.html" />
     </list>
     <ignored path="ishtargate.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -230,7 +228,7 @@
       <workItem from="1464714761902" duration="5857000" />
       <workItem from="1464722481453" duration="91000" />
       <workItem from="1464791054927" duration="855000" />
-      <workItem from="1464805388733" duration="1729000" />
+      <workItem from="1464805388733" duration="2337000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1464715934318</created>
@@ -260,11 +258,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464805644508</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1464807126693</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1464807126693</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8647000" />
+    <option name="totallyTimeSpent" value="9255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="683" height="738" extended-state="0" />
